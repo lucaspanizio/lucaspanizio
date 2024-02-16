@@ -12,6 +12,7 @@ Almejo me tornar Fullstack, por hora meu foco está no Front e tenho estudado e 
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWindCSS" height="30em"></a>
   <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.JS-%238cbf3e?style=for-the-badge&logo=node.js&logoColor=%2345453b" alt="Node.js" height="30em"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=%23ffc720" alt="Vite" height="30em"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30em"/></a>
 </div>
 <br>
 
