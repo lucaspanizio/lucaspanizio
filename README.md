@@ -36,5 +36,6 @@ Almejo me tornar Fullstack, por hora meu foco está no Front e tenho estudado e 
   <p>Confira meus principais repositórios 👇</p>
   <a href="https://github.com/lucaspanizio/nlw-expert-notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=nlw-expert-notes&theme=dracula" /></a>
   <a href="https://github.com/lucaspanizio/nlw-expert-polls"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=nlw-expert-polls&theme=dracula" /></a>
+  <a href="https://github.com/lucaspanizio/calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=calculator&theme=dracula" /></a>
   <a href="https://github.com/lucaspanizio/flexblog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=flexblog&theme=dracula" /></a>
 </div>
