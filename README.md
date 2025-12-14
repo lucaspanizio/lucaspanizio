@@ -1,24 +1,36 @@
-
 ## Olá👋 Seja bem-vindo(a) ao meu GitHub!
 
-<p>Sou graduado em Ciência da Computação pelo Centro Universitário Filadélfia (UNIFIL) de Londrina/PR, desde 2019.<br><br>
-Atualmente trabalho como DEV Front-end com a seguinte stack:<br>
-<a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=Typescript&logoColor=%23fff" height="30em" alt="Typescript"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30em"/></a>
-  <a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" height="30em"></a>
-  
-Também possuo conhecimento em Delphi, PHP, Node.js e Oracle SQL, embora eu caminhe para a especialização em desenvolvimento Front-end Web e Mobile.
+Sou desenvolvedor front-end com formação em Ciência da Computação e foco no
+desenvolvimento de aplicações web utilizando React e TypeScript.
 
-<div>  
-<!--   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30em"/></a> -->
-<!--   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=Typescript&logoColor=%23fff" height="30em" alt="Typescript"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30em"/></a> -->
-<!--   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind CSS" height="30em"></a> -->
-<!--   <a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" height="30em"></a> -->
-<!--   <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.JS-%238cbf3e?style=for-the-badge&logo=node.js&logoColor=%2345453b" alt="Node.js" height="30em"/></a> -->
-<!--   <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=%23ffc720" alt="Vite" height="30em"/></a> -->
-<!--   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30em"/></a> -->
-</div>
+Aqui você encontrará projetos voltados a:
+- Arquitetura de componentes
+- Padrões de composição e reutilização
+- Gerenciamento de estado
+- Boas práticas de engenharia front-end
+- Experimentos e estudos técnicos
+
+<br>
+<div>
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="40px" height="40px" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />  
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> 
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" />
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>       
 <br>
 
 <div>
@@ -38,8 +50,8 @@ Também possuo conhecimento em Delphi, PHP, Node.js e Oracle SQL, embora eu cami
 <!-- Principais projetos -->
 <div align="left">
   <p>Confira alguns dos meus repositórios 👇</p>
-  <a href="https://github.com/lucaspanizio/redux-store"><img src="https://panizio-github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=redux-store&theme=dracula" /></a>
+  <a href="https://github.com/lucaspanizio/coffee-delivery"><img src="https://panizio-github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=coffee-delivery&theme=dracula" /></a>  
+  <a href="https://github.com/lucaspanizio/forest-wind"><img src="https://panizio-github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=forest-wind&theme=dracula" /></a>
   <a href="https://github.com/lucaspanizio/calculator"><img src="https://panizio-github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=calculator&theme=dracula" /></a>
-  <a href="https://github.com/lucaspanizio/pagination-patterns"><img src="https://panizio-github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=pagination-patterns&theme=dracula" /></a>
   <a href="https://github.com/lucaspanizio/nlw-journey-app"><img src="https://panizio-github-readme-stats.vercel.app/api/pin/?username=lucaspanizio&repo=nlw-journey-app&theme=dracula" /></a>
 </div>
